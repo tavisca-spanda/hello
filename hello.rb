@@ -1,2 +1,3 @@
-puts "Hello, #{ARGV.first}!"
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CWorld[3~[3~[3~[C[C[C[C[C[C["
+name= ARGV.first || "World"
+puts "Hello, #{name}!"
+
